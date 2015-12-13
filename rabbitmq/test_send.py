@@ -61,7 +61,6 @@ class testSend(object):
 
         print 'get response %r' %self.response
 
-
 if __name__ == '__main__':
     test = testSend()
     # test.basic_test()
